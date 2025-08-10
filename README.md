@@ -1,4 +1,4 @@
-\# 🎬 Movie Recommendation System
+\#  Movie Recommendation System
 
 
 
@@ -12,7 +12,7 @@ Developed in a Jupyter Notebook as part of my Data Science \& AI portfolio.
 
 
 
-\## 📌 Overview
+\##  Overview
 
 This project demonstrates how to build a movie recommender system from scratch, applying:
 
@@ -38,7 +38,7 @@ The system can:
 
 
 
-\## 🛠️ Tech Stack
+\## 🛠 Tech Stack
 
 \- \*\*Python\*\* (Pandas, NumPy, Scikit-learn)
 
